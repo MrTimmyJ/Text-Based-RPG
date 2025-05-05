@@ -75,7 +75,7 @@ Room Interaction: Each room contains:
 
 🖼️ Screenshots / Visuals
 
-    ![tbrpgbanner](https://github.com/user-attachments/assets/43bd9fef-2020-43d1-ac29-dcc5f56e39b1)
+![tbrpgbanner](https://github.com/user-attachments/assets/ef1bbb4b-4881-48a2-8718-3f0f0645c5c5)
 
 🧰 Technologies Used
 
