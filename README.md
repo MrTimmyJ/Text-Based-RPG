@@ -61,7 +61,7 @@ You begin by entering a room and are prompted with command options. Each action 
 ├── Utilities.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Helper methods for string manipulation and command reference <br>
 
 
-⚙️ How It Works
+⚙️ How It Works <br>
 Player Initialization: The game creates a player with a name, starting room, and an empty or pre-defined inventory.
 
 Room Interaction: Each room contains:
