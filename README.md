@@ -28,7 +28,8 @@ Players can navigate using typed commands and manage an inventory system.
 🎮 Gameplay
 
 You begin by entering a room and are prompted with command options. Each action affects the game's state.
-Available Commands:
+
+### Available Commands:
 
 | Command     | Description                                    |
 | ----------- | ---------------------------------------------- |
