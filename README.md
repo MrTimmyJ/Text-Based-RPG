@@ -106,7 +106,7 @@ To run this project on your local machine:
 
 3. Run the game
 
-  java Main
+   java Main
 
 
 📝 Note: The Main.java file should be created to initialize your rooms and player, then loop through rooms until continuePlay is false.
