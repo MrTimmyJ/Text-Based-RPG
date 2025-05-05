@@ -40,11 +40,22 @@ Available Commands:
 
 📁 Code Structure
 
-.
-├── Player.java       # Defines the player, inventory, and interactions
-├── Room.java         # Generic room logic, including navigation and item handling
-├── Utilities.java    # Helper methods for string manipulation and command reference
-├── Main.java         # (To be created) Entry point of the game and room setup
+. <br>
+├── CustomPlayer.java <br>
+├── GameDemoSimple.java <br>
+├── GameVersion2.java <br>
+├── GameVersion3.java <br>
+├── GameVersion4.java <br>
+├── MonsterRoom.java <br>
+├── Player.java <br>
+├── README.md <br>
+├── Room.java <br>
+├── SleepRoom.java <br>
+├── SubClass.java <br>
+├── SuperClass.java <br>
+├── Trying.java <br>
+├── Utilities.java <br>
+
 
 ⚙️ How It Works
 Player Initialization: The game creates a player with a name, starting room, and an empty or pre-defined inventory.
