@@ -45,20 +45,20 @@ You begin by entering a room and are prompted with command options. Each action 
 📁 Code Structure
 
 . <br>
-├── CustomPlayer.java <br>
-├── GameDemoSimple.java <br>
-├── GameVersion2.java <br>
-├── GameVersion3.java <br>
-├── GameVersion4.java <br>
-├── MonsterRoom.java <br>
-├── Player.java <br>
+├── CustomPlayer.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Defines the custom player, inventory, and interactions <br>
+├── GameDemoSimple.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Demo entry point of the game and room setup <br>
+├── GameVersion2.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Second entry point of the game and room setup <br>
+├── GameVersion3.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Third entry point of the game and room setup <br>
+├── GameVersion4.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Fourth entry point of the game and room setup <br>
+├── MonsterRoom.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Monster Room logic <br>
+├── Player.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Defines the player, inventory, and interactions <br>
 ├── README.md <br>
-├── Room.java <br>
-├── SleepRoom.java <br>
+├── Room.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Generic room logic, including navigation and item handling <br>
+├── SleepRoom.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Sleep room logic to allow player to heal <br>
 ├── SubClass.java <br>
 ├── SuperClass.java <br>
 ├── Trying.java <br>
-├── Utilities.java <br>
+├── Utilities.java &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Helper methods for string manipulation and command reference <br>
 
 
 ⚙️ How It Works
