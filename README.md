@@ -1,5 +1,5 @@
 # Text-Based-RPG
-A short text based RPG
+A short text-based RPG. Explore a mysterious house room by room, collect items, interact with your environment, and navigate through a branching world—all through your command line.
 
 ## Overview
 
@@ -112,3 +112,20 @@ To run this project on your local machine:
 📝 Note: The Main.java file should be created to initialize your rooms and player, then loop through rooms until continuePlay is false.
 Different versions of "Main" include: GameDemoSimple.java, GameVersion2.java, GameVersion3.java, and GameVersion4.java.
 
+🌱 Planned Features
+
+    🧠 Custom player class with health, stamina, or traits
+
+    🎲 Random events or item spawns
+
+    🗺️ Map system to visualize progress
+
+    💾 Save/Load system using file I/O
+
+    🧙 NPC interactions with dialogue options
+
+    📜 Quest system with objectives
+
+🪪 License
+
+This project is open source and available under the [MIT License](LICENSE).
