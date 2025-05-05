@@ -77,14 +77,6 @@ Room Interaction: Each room contains:
 
     ![tbrpgbanner](https://github.com/user-attachments/assets/43bd9fef-2020-43d1-ac29-dcc5f56e39b1)
 
-✅ Suggestions for images:
-
-    ASCII map of your house layout
-
-    Screenshot of gameplay in terminal
-
-    Flowchart of class relationships (Player → Room → Utilities)
-
 🧰 Technologies Used
 
     Java 17 (or specify version)
