@@ -1,6 +1,9 @@
 # Text-Based-RPG
 A short text-based RPG. Explore a mysterious house room by room, collect items, interact with your environment, and navigate through a branching world—all through your command line.
 
+Author: Timothy Johnson <br>
+Date: January 2021 to February 2021
+
 ## Overview
 
 This is a text-based role-playing game (RPG) built in Java that allows players to explore a series of interconnected rooms in a house.
