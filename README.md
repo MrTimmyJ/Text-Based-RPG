@@ -128,4 +128,4 @@ Different versions of "Main" include: GameDemoSimple.java, GameVersion2.java, Ga
 
 🪪 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](https://opensource.org/license/mit).
