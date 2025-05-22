@@ -6,7 +6,7 @@ Date: January 2021 to February 2021
 
 ## Overview
 
-This is a text-based role-playing game (RPG) built in Java that allows players to explore a series of interconnected rooms in a house.
+&nbsp;&nbsp;&nbsp;&nbsp;This is a text-based role-playing game (RPG) built in Java that allows players to explore a series of interconnected rooms in a house.
 Each room contains items that can be picked up or dropped, and rooms may have unique mechanics (such as healing).
 Players can navigate using typed commands and manage an inventory system.
 
@@ -89,20 +89,20 @@ Room Interaction: Each room contains:
 
 🚀 Getting Started
 
-To run this project on your local machine:
+    To run this project on your local machine:
 
-1. Clone this repository
+    1. Clone this repository
 
-    git clone https://github.com/yourusername/text-based-rpg-java.git
-    cd text-based-rpg-java
+        git clone https://github.com/MrTimmyJ/text-based-rpg-java.git
+        cd text-based-rpg-java
 
-2. Compile all Java files
+    2. Compile all Java files
 
-   javac *.java
+       javac *.java
 
-3. Run the game
+    3. Run the game
 
-   java GameDemoSimple
+       java GameDemoSimple
 
 
 📝 Note: The Main.java file should be created to initialize your rooms and player, then loop through rooms until continuePlay is false.
@@ -124,4 +124,4 @@ Different versions of "Main" include: GameDemoSimple.java, GameVersion2.java, Ga
 
 🪪 License
 
-This project is open source and available under the [MIT License](https://opensource.org/license/mit).
+This open-source project is available under the [MIT License](https://opensource.org/license/mit).
